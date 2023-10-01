@@ -1,0 +1,4 @@
+pandas
+newspaper3k
+contextlib2
+gnews
